@@ -1,0 +1,11 @@
+C:\Users\Tayfun\Desktop\San_Tsg_Project\San_Tsg_Project.Test\bin\Release\San_Tsg_Project.Test.dll
+C:\Users\Tayfun\Desktop\San_Tsg_Project\San_Tsg_Project.Test\bin\Release\San_Tsg_Project.Test.pdb
+C:\Users\Tayfun\Desktop\San_Tsg_Project\San_Tsg_Project.Test\bin\Release\Castle.Core.dll
+C:\Users\Tayfun\Desktop\San_Tsg_Project\San_Tsg_Project.Test\bin\Release\Castle.Windsor.dll
+C:\Users\Tayfun\Desktop\San_Tsg_Project\San_Tsg_Project.Test\bin\Release\San_Tsg_Project.dll
+C:\Users\Tayfun\Desktop\San_Tsg_Project\San_Tsg_Project.Test\bin\Release\San_Tsg_Project.pdb
+C:\Users\Tayfun\Desktop\San_Tsg_Project\San_Tsg_Project.Test\bin\Release\Castle.Core.xml
+C:\Users\Tayfun\Desktop\San_Tsg_Project\San_Tsg_Project.Test\bin\Release\Castle.Windsor.xml
+C:\Users\Tayfun\Desktop\San_Tsg_Project\San_Tsg_Project.Test\obj\Release\San_Tsg_Project.Test.csprojResolveAssemblyReference.cache
+C:\Users\Tayfun\Desktop\San_Tsg_Project\San_Tsg_Project.Test\obj\Release\San_Tsg_Project.Test.dll
+C:\Users\Tayfun\Desktop\San_Tsg_Project\San_Tsg_Project.Test\obj\Release\San_Tsg_Project.Test.pdb

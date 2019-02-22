@@ -1,0 +1,23 @@
+c:\users\temp\documents\visual studio 2015\Projects\San_Tsg_Project\San_Tsg_Project.Test\bin\Debug\San_Tsg_Project.Test.dll
+c:\users\temp\documents\visual studio 2015\Projects\San_Tsg_Project\San_Tsg_Project.Test\bin\Debug\San_Tsg_Project.Test.pdb
+c:\users\temp\documents\visual studio 2015\Projects\San_Tsg_Project\San_Tsg_Project.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\temp\documents\visual studio 2015\Projects\San_Tsg_Project\San_Tsg_Project.Test\obj\Debug\San_Tsg_Project.Test.csprojResolveAssemblyReference.cache
+c:\users\temp\documents\visual studio 2015\Projects\San_Tsg_Project\San_Tsg_Project.Test\obj\Debug\San_Tsg_Project.Test.dll
+c:\users\temp\documents\visual studio 2015\Projects\San_Tsg_Project\San_Tsg_Project.Test\obj\Debug\San_Tsg_Project.Test.pdb
+C:\Users\TEMP\documents\visual studio 2015\Projects\San_Tsg_Project\San_Tsg_Project.Test\bin\Debug\San_Tsg_Project.dll
+C:\Users\TEMP\documents\visual studio 2015\Projects\San_Tsg_Project\San_Tsg_Project.Test\bin\Debug\Castle.Windsor.dll
+C:\Users\TEMP\documents\visual studio 2015\Projects\San_Tsg_Project\San_Tsg_Project.Test\bin\Debug\Castle.Core.dll
+C:\Users\TEMP\documents\visual studio 2015\Projects\San_Tsg_Project\San_Tsg_Project.Test\bin\Debug\San_Tsg_Project.pdb
+C:\Users\TEMP\documents\visual studio 2015\Projects\San_Tsg_Project\San_Tsg_Project.Test\bin\Debug\Castle.Windsor.xml
+C:\Users\TEMP\documents\visual studio 2015\Projects\San_Tsg_Project\San_Tsg_Project.Test\bin\Debug\Castle.Core.xml
+C:\Users\Tayfun\Desktop\San_Tsg_Project\San_Tsg_Project.Test\bin\Debug\San_Tsg_Project.Test.dll
+C:\Users\Tayfun\Desktop\San_Tsg_Project\San_Tsg_Project.Test\bin\Debug\San_Tsg_Project.Test.pdb
+C:\Users\Tayfun\Desktop\San_Tsg_Project\San_Tsg_Project.Test\bin\Debug\Castle.Core.dll
+C:\Users\Tayfun\Desktop\San_Tsg_Project\San_Tsg_Project.Test\bin\Debug\Castle.Windsor.dll
+C:\Users\Tayfun\Desktop\San_Tsg_Project\San_Tsg_Project.Test\bin\Debug\San_Tsg_Project.dll
+C:\Users\Tayfun\Desktop\San_Tsg_Project\San_Tsg_Project.Test\bin\Debug\San_Tsg_Project.pdb
+C:\Users\Tayfun\Desktop\San_Tsg_Project\San_Tsg_Project.Test\bin\Debug\Castle.Core.xml
+C:\Users\Tayfun\Desktop\San_Tsg_Project\San_Tsg_Project.Test\bin\Debug\Castle.Windsor.xml
+C:\Users\Tayfun\Desktop\San_Tsg_Project\San_Tsg_Project.Test\obj\Debug\San_Tsg_Project.Test.csprojResolveAssemblyReference.cache
+C:\Users\Tayfun\Desktop\San_Tsg_Project\San_Tsg_Project.Test\obj\Debug\San_Tsg_Project.Test.dll
+C:\Users\Tayfun\Desktop\San_Tsg_Project\San_Tsg_Project.Test\obj\Debug\San_Tsg_Project.Test.pdb
